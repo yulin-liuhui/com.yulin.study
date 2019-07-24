@@ -6,6 +6,7 @@
 
     <groupId>com.yulin</groupId>
     <artifactId>study_01</artifactId>
+    <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
@@ -41,4 +42,7 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+
+
 </project>
+
